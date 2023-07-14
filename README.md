@@ -43,7 +43,7 @@ To change the parameters, you can edit the Config Cell located before the last c
   doi={10.1109/BalkanCom58402.2023.10167910}}   
   
 GraphXAI project:   
-[Github] (https://github.com/mims-harvard/GraphXAI/tree/main)   
+[Github](https://github.com/mims-harvard/GraphXAI/tree/main)   
 @article{agarwal2023evaluating,   
   title={Evaluating Explainability for Graph Neural Networks},   
   author={Agarwal, Chirag and Queen, Owen and Lakkaraju, Himabindu and Zitnik, Marinka},   
